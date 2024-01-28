@@ -1,5 +1,5 @@
 - Hi, I’m @hkaanoktay
-- Check my persoal website: hikmetkaanoktay.com 
+- Check my personal website: hikmetkaanoktay.com 
 - I'm a junior in Bilkent University
 
 <!---
