@@ -1,6 +1,6 @@
 - Hi, I’m @hkaanoktay
 - Check my personal website: hikmetkaanoktay.com 
-- I'm a junior in Bilkent University
+- I'm a senior student in Bilkent University
 
 <!---
 hkaanoktay/hkaanoktay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
